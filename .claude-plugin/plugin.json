@@ -1,7 +1,7 @@
 {
   "name": "meltwater-skills",
-  "version": "0.1.0",
-  "description": "Meltwater MCP skills for media intelligence reporting — Brand Pulse, Issues & Crisis, and brand guidelines.",
+  "version": "0.2.0",
+  "description": "Meltwater MCP skills for media intelligence reporting — Brand Pulse, Issues & Crisis, Campaign Impact, GenAI Lens, Klear Influencer, Reddit Intelligence, Trending & Viral, and brand guidelines.",
   "author": {
     "name": "Meltwater"
   },

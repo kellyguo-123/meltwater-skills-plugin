@@ -1,0 +1,126 @@
+{
+  "_comment": "This is the shape that scripts/aggregate_klear.py produces at /home/claude/report-data.json. Use it as a reference when wiring sections to data. All field types are illustrative.",
+  "brand_name": "<brand>",
+  "report_title": "<report title>",
+  "period": {
+    "start": "2025-06-02",
+    "end": "2026-06-02"
+  },
+  "combined": {
+    "total_mentions": 10617,
+    "total_reach": 23765383.78,
+    "total_engagements": 1389282,
+    "total_emv": 5397833.98,
+    "creators": 185
+  },
+  "cohort_a": {
+    "name": "<cohort A name>",
+    "descriptor": "<one-line description>",
+    "campaign_id": 0,
+    "creators_count": 85,
+    "mentioning_users": 63,
+    "total_mentions": 492,
+    "total_reach": 1747687.19,
+    "total_engagements": 131897,
+    "total_impressions": 18111678,
+    "engagement_rate": 0.74,
+    "emv": 472183.50,
+    "networks": {
+      "insta": 480,
+      "insta_stories": 7,
+      "twitter": 0,
+      "facebook": 4,
+      "youtube": 1,
+      "tiktok": 0
+    },
+    "content_types": {
+      "image": 418,
+      "video": 73,
+      "text": 1
+    },
+    "top_posts_by_engagement": [
+      {
+        "author_name": "<creator name>",
+        "author_handle": "<ig handle>",
+        "author_ig_followers": 91735,
+        "link": "https://www.instagram.com/p/SHORTCODE/",
+        "ig_shortcode": "SHORTCODE",
+        "network": "instagram",
+        "content_type": "image",
+        "caption": "<caption truncated to ~160 chars>",
+        "engagements": 25581,
+        "likes": 25490,
+        "comments": 91,
+        "created_at": "2025-10-12"
+      }
+    ],
+    "top_posts_by_reach": [
+      {
+        "author_name": "<creator name>",
+        "author_handle": "<ig handle>",
+        "author_ig_followers": 680695,
+        "link": "https://www.instagram.com/p/SHORTCODE/",
+        "ig_shortcode": "SHORTCODE",
+        "network": "instagram",
+        "content_type": "image",
+        "caption": "<caption>",
+        "engagements": 5400,
+        "likes": 5300,
+        "comments": 100,
+        "created_at": "2025-08-04"
+      }
+    ],
+    "demographics": {
+      "avg_age": null,
+      "male_pct": null,
+      "female_pct": null,
+      "age_18_24": null,
+      "age_25_34": null,
+      "age_35_49": null,
+      "us_pct": null,
+      "top_countries": [],
+      "_unavailable": true,
+      "_unavailable_reason": "profileDemographics endpoint timed out"
+    }
+  },
+  "cohort_b": {
+    "name": "<cohort B name>",
+    "descriptor": "<one-line description>",
+    "campaign_id": 0,
+    "creators_count": 100,
+    "mentioning_users": 66,
+    "total_mentions": 203,
+    "total_reach": 22017696.59,
+    "total_engagements": 1257385,
+    "total_impressions": 176949780,
+    "engagement_rate": 0.71,
+    "emv": 4925650.49,
+    "networks": {
+      "insta": 128,
+      "insta_stories": 60,
+      "twitter": 12,
+      "facebook": 2,
+      "youtube": 0,
+      "tiktok": 1
+    },
+    "content_types": {
+      "image": 118,
+      "video": 82,
+      "text": 3
+    },
+    "top_posts_by_engagement": [],
+    "top_posts_by_reach": [],
+    "demographics": {
+      "avg_age": null,
+      "male_pct": null,
+      "female_pct": null,
+      "age_18_24": null,
+      "age_25_34": null,
+      "age_35_49": null,
+      "us_pct": null,
+      "top_countries": [],
+      "_unavailable": true,
+      "_unavailable_reason": "profileDemographics endpoint timed out"
+    }
+  }
+}
