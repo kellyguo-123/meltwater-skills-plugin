@@ -54,6 +54,7 @@ Meltwater MCP skills for media intelligence reporting. Install this plugin to ge
 
 | Version | Changes |
 |---------|---------|
+| 0.3.0 | Added Meltwater MCP connector — auto-prompts teammates to connect on install |
 | 0.2.0 | Added Campaign Impact, GenAI Lens, GenAI Lens Framework, Klear Influencer, Reddit Intelligence, Trending & Viral |
 | 0.1.0 | Initial release — Brand Pulse + Issues & Crisis + Meltwater brand assets |
 
